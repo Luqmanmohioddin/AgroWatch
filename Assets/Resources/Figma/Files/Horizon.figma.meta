@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 4fa13f91abd54144a83d500ddf91bf69
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ac69724a0d29c2b43917235d0115eedc, type: 3}
+  _pages:
+  - enabled: 1
+    id: 0:1
+    name: Dashboard
+  _fonts:
+  - fontName: Poppins-SemiBold
+    font: {instanceID: 0}
+  - fontName: DINPro-Bold
+    font: {instanceID: 0}
+  - fontName: DINPro-Medium
+    font: {instanceID: 0}
+  - fontName: Yuanti SC-Bold
+    font: {instanceID: 0}
+  - fontName: Poppins-Regular
+    font: {instanceID: 0}
+  - fontName: Poppins-Bold
+    font: {instanceID: 0}
+  - fontName: Source Han Sans SC-Bold
+    font: {instanceID: 0}
+  - fontName: SF Pro Text-Regular
+    font: {instanceID: 0}
+  - fontName: Source Han Sans SC-Regular
+    font: {instanceID: 0}
+  - fontName: Poppins-Light
+    font: {instanceID: 0}
+  _fallbackFont: {instanceID: 0}
+  _pageReferences:
+  - {instanceID: 0}
+  _layer: 5
+  _pixelsPerUnit: 100
+  _scaleFactor: 1
+  _gradientResolution: 128
+  _minTextureSize: 64
+  _maxTextureSize: 1024
+  _rectTextureSize: 32
+  _wrapMode: 1
+  _filterMode: 1
+  _sampleCount: 4
+  _expandEdges: 0
+  _markExternalAssetAsDependency: 1
+  _generateUniqueNodeName: 0
+  _localizationConverter: 
+  _effectConverters: []
+  _assetBindings: []
